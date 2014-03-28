@@ -1,0 +1,27 @@
+{
+  "name": "jsonpp",
+  "main": "./lib/jsonpp",
+  "version": "0.0.4",
+  "description": "JSON pretty printer",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/swenson/atom-jsonpp"
+  },
+  "license": "MIT",
+  "engines": {
+    "atom": ">0.50.0"
+  },
+  "dependencies": {},
+  "readme": "# jsonpp package\n\nPretty print your buffer as JSON.\n\nHit Ctrl-Alt-J to pretty print your buffer or selection, or use the `jsonpp:jsonpp` command,\nor right-click and select `JSON pretty print`.\n\nUse Ctrl-Alt-K to compactify the JSON (or `jsonpp:compact`, or right click).\n\n## Licensing and Copyright\n\nCopyright 2014 Christopher Swenson.\n\nLicensed under the MIT License (see [LICENSE.md](LICENSE.md)).\n",
+  "readmeFilename": "README.md",
+  "bugs": {
+    "url": "https://github.com/swenson/atom-jsonpp/issues"
+  },
+  "homepage": "https://github.com/swenson/atom-jsonpp",
+  "_id": "jsonpp@0.0.4",
+  "dist": {
+    "shasum": "8c2a1bf778583014e642fa2d0dae349c7c32238f"
+  },
+  "_resolved": "/var/folders/5x/4nm_68dx7nz2y3j8ls6772jw0000gn/T/d-114224-27711-ngxh7z/package.tgz",
+  "_from": "/var/folders/5x/4nm_68dx7nz2y3j8ls6772jw0000gn/T/d-114224-27711-ngxh7z/package.tgz"
+}

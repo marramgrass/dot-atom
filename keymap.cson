@@ -19,3 +19,6 @@
 '.workspace .editor:not(.mini)':
   'cmd-alt-[': 'editor:move-line-up'
   'cmd-alt-]': 'editor:move-line-down'
+
+'.platform-darwin, .platform-darwin .command-palette .editor':
+  'shift-cmd-X': 'command-palette:toggle'
