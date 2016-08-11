@@ -1,22 +1,23 @@
-'exception-reporting':
-  'userId': 'd38ac18e-101b-c18a-09a5-11baf6f29b6c'
-'release-notes':
-  'viewedVersion': '0.78.0'
-'welcome':
-  'showOnStartup': false
-'metrics':
-  'userId': '9f660bdf8f2689f2acd5d647e4ea1b3de171b369'
-'editor':
-  'fontFamily': 'Meslo LG M DZ'
-  'fontSize': 13
-'core':
-  'themes': [
-    'atom-dark-ui'
-    'solarized-dark-syntax'
-  ]
-  'ignoredNames': [
-    '.git'
-    '.svn'
-    '.DS_Store'
-  ]
-  'audioBeep': false
+"*":
+  core:
+    audioBeep: false
+    ignoredNames: [
+      ".git"
+      ".svn"
+      ".DS_Store"
+    ]
+    themes: [
+      "atom-dark-ui"
+      "solarized-dark-syntax"
+    ]
+  editor:
+    fontFamily: "Meslo LG M DZ"
+    fontSize: 13
+  "exception-reporting":
+    userId: "d38ac18e-101b-c18a-09a5-11baf6f29b6c"
+  metrics:
+    userId: "9f660bdf8f2689f2acd5d647e4ea1b3de171b369"
+  "release-notes":
+    viewedVersion: "0.78.0"
+  welcome:
+    showOnStartup: false
